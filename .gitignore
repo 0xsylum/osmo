@@ -1,0 +1,21 @@
+﻿# Frontend/Node
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+.env
+.env.*
+
+# Solidity (Hardhat/Foundry)
+artifacts/
+cache/
+out/
+broadcast/
+typechain/
+typechain-types/
+
+# Editor/OS
+.vscode/
+.DS_Store
